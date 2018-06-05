@@ -3,15 +3,10 @@
  */
 package com.cdwoo.utils;
 
-/**
- * @author cd
- *
- */
-import java.io.File;  
-import java.io.FileInputStream;  
-import java.io.FileNotFoundException;  
-import java.io.FileOutputStream;  
-import java.io.IOException;  
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.util.Properties;  
 public class PropertiesUtil {  
     //参数为要修改的文件路径  以及要修改的属性名和属性值  
